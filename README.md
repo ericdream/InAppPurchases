@@ -17,7 +17,7 @@ InAppPurchases is available through [CocoaPods](https://cocoapods.org). To insta
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'InAppPurchases'
+pod 'InAppPurchases'  ### 需要手动导入 暂时未实现pod 导入
 ```
 
 ## Author
